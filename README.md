@@ -1,6 +1,6 @@
-# platzimusic
+# musicFMss
 
-> Curso de Vue
+> Listado de artistas paises
 
 ## Build Setup
 
