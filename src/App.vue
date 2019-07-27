@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">
+    <img src="https://flam1ng.github.io/musicFMs/dist/logo.png">
     <h1>PlatziMusic</h1>
     <select v-model="selectedCountry">
       <option v-for="country in countries" :value="country.value">{{country.name}}</option>
